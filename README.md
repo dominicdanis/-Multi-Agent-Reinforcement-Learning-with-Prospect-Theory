@@ -17,3 +17,15 @@ python CPT-wss.py
 The following libraries are needed:
 - Numpy
 - Matplotlib
+
+## Citation
+```
+@inproceedings{danis2023multi,
+  title={Multi Agent Reinforcement Learning with Prospect Theory},
+  author={Danis, Dominic and Parmacek, Parker and Dunajsky, David and Ramasubramanian, Bhaskar},
+  booktitle={Proceedings of the SIAM Conference on Control and its Applications},
+  pages={},
+  year={2023},
+  organization={SIAM}
+}
+```
