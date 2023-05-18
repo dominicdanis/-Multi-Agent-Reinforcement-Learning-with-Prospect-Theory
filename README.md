@@ -9,8 +9,11 @@ The figure below provides a visualization of the experimental setup, with agents
   <img src="https://github.com/dominicdanis/-Multi-Agent-Reinforcement-Learning-with-Prospect-Theory/assets/121999556/64681920-68f6-44d8-9b0f-5bac34cffa55" width="500"/>
 <p/>
 
-This Python implementation is extremely simple and with appropriate libraries can run with the following commands:
+This Python implementation is extremely simple and can run with the following commands:
 ```
 python CPT-indq.py
 python CPT-wss.py
 ```
+The following libraries are needed:
+- Numpy
+- Matplotlib
